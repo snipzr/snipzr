@@ -1,11 +1,10 @@
-# 💫 About Me:
+# About Me:
 💻 Cybersecurity student at ESGI PARIS<br><br>
 🛡 SOC Analyst | Monitoring & Threat Detection<br><br>
 ⚽ Passionate about Sports & Cybersecurity<br><br>
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/adrien-meslin) 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:adn.meslin@gmail.com)
 
 # 💻 Tech Stack:
